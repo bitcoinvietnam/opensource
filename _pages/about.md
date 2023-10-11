@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+We are the bridge between the fiat world and cryptocurrency in Vietnam.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+BitcoinVN is Vietnam's premier Bitcoin and cryptocurrency exchange, dedicated to providing a safe, secure, and user-friendly platform for buying and selling cryptocurrencies.
+
+## Our mission
+
+Our mission is to be the bridge between the fiat world and the global peer to peer economy in Vietnam, making it easy for locals and foreigners in Vietnam to access the benefits of this technology handed to us by Satoshi Nakamoto.
