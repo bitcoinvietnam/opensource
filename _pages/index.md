@@ -1,0 +1,39 @@
+---
+layout: splash
+permalink: /
+hidden: false
+# header:
+#   image_description: "sdsdaa"
+#   overlay_color: "#5e616c"
+#   overlay_image: /assets/images/main-banner.jpg
+#   # actions:
+#   #   - label: "<i class='fas fa-download'></i> Install now"
+#   #     url: "/docs/quick-start-guide/"
+# excerpt: >
+#   <br />
+#   <br />
+feature_row:
+  - image_path: /assets/images/mempool-logo.jpg
+    alt: ""
+    title: "Mempool Bitcoin Explorer"
+    excerpt: "The mempool and blockchain explorer for the Bitcoin community, focusing on the transaction fee market and multi-layer ecosystem, completely self-hosted.<br><br>Our contribution: Translation."
+    url: "" 
+    btn_class: "btn--primary"
+    btn_label: "Lean more"
+  - image_path: /assets/images/blixt-wallet-logo.jpg
+    alt: ""
+    title: "Blixt Wallet"
+    excerpt: "A self-custodial open-source Bitcoin Lightning Wallet for Android with focus on usability and user experience, powered by lnd and Neutrino SPV.<br><br>Our contribution: Translation."
+    url: ""
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/zeus-app-logo.jpg
+    alt: ""
+    title: "Zeus Lightning App"
+    excerpt: "An open-source, non-custodial Bitcoin wallet that gives you full control over how you make payments. Make lightning fast payments in the palm of your hand.<br><br>Our contribution: Translation."
+    url: ""
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+---
+
+{% include feature_row %}
