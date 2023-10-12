@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/mempool-logo.jpg
     alt: ""
     title: "Mempool Bitcoin Explorer"
-    excerpt: "The mempool and blockchain explorer for the Bitcoin community, focusing on the transaction fee market and multi-layer ecosystem, completely self-hosted.<br><br>Our contribution: Translation."
+    excerpt: "A mempool and blockchain explorer for the Bitcoin community, focusing on the transaction fee market and multi-layer ecosystem, completely self-hosted.<br><br>Our contribution: Translation."
     url: "" 
     btn_class: "btn--primary"
     btn_label: "Lean more"
