@@ -8,7 +8,7 @@ tags:
 
 The mempool and blockchain explorer for the Bitcoin community, focusing on the transaction fee market and multi-layer ecosystem, completely self-hosted.
 
-Our contribution: [Translation](/categories/#translation).
+Our contribution: [🇻🇳 Translation](/categories/#translation).
 
 🧑‍💻 [Looking to contribute?](https://github.com/mempool/mempool)
 
