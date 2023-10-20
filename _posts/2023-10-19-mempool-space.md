@@ -14,6 +14,8 @@ Our contribution:
 - [🇻🇳 Translation](https://mempool.space/vi/).
 - OG Sponsor [VBTC](https://vbtc.exchange/).
 
+---
+
 🧑‍💻 [Looking to contribute?](https://github.com/mempool/mempool)
 
 🏠 [Homepage](https://mempool.space)
