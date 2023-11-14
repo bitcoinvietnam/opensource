@@ -11,8 +11,9 @@ An open-source, non-custodial Bitcoin wallet that gives you full control over ho
 Our contribution:
 
 - [🇻🇳 Translation](https://github.com/ZeusLN/zeus/blob/master/locales/vi.json).
-- OG Sponsor [Zeus app](https://zeusln.app/about) (financial contribution).
 
 🧑‍💻 [Looking to contribute?](https://github.com/ZeusLN/zeus)
 
 🏠 [Homepage](https://zeusln.app)
+
+💰 [Sponsorship program](https://zeusln.app/about)
