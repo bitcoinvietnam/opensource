@@ -12,7 +12,7 @@ The mempool and blockchain explorer for the Bitcoin community, focusing on the t
 Our contribution:
 
 - [🇻🇳 Translation](https://mempool.space/vi/).
-- OG Sponsor [VBTC](https://vbtc.exchange/).
+- OG Sponsor [VBTC](https://vbtc.exchange/) (financial contribution).
 
 ---
 
