@@ -19,9 +19,9 @@ People who commit to Bitcoin do so for the long-term vision and bring a lot of s
 
 And for a better future for humanity as a whole - building out the sound money standard upon which every sound society rests.
 
-Every profitable Bitcoin business hence should strive to allocate a certain part of their resources to support Open Source development.
+**Every profitable Bitcoin business hence should strive to allocate a certain part of their resources to support Open Source development.**
 
-While as a Vietnam-based firm we are limited in the financial resources we can provide, our team has been mostly active especially in providing free localization to selected projects (as well as spreading the word locally).
+While as a Vietnam-based firm we are limited in the financial resources we can provide, our team has been mostly active especially in providing free localization to selected projects *(as well as spreading the word locally)*.
 
 Some of our developers also regularly contribute to other Open Source projects and/or build OS projects on their own.
 
