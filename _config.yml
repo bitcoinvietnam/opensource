@@ -19,7 +19,7 @@ email: opensource@bitcoinvn.vo
 description: >- # this means to ignore newlines until "baseurl:"
   BitcoinVN open source projects and contributions.
 url: https://bitcoinvn.io
-baseurl: /opensource/
+baseurl: /opensource
 twitter_username: bitcoin_vietnam
 github_username: bitcoinvietnam
 minimal_mistakes_skin: bitcoinvn
