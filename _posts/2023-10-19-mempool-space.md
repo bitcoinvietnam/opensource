@@ -1,6 +1,5 @@
 ---
 title: "Mempool Bitcoin Explorer"
-permalink: /mempool-space
 date: 2023-10-19
 categories:
   - Translation
