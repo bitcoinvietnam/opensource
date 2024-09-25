@@ -13,6 +13,13 @@ hidden: false
 #   <br />
 #   <br />
 feature_row:
+  - image_path: /assets/images/base58.webp
+    alt: ""
+    title: "Base58"
+    excerpt: "Base58 is a software engineering school built on the bitcoin standard. The team led by Lisa Neigut (aka \"niftynei\") offers online & in-person classes.<br><br>Our contribution: Event sponsorship."
+    url: "/base58-info"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
   - image_path: /assets/images/mempool-logo.jpg
     alt: ""
     title: "Mempool Bitcoin Explorer"
