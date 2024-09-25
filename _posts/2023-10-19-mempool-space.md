@@ -13,6 +13,7 @@ Our contribution:
 
 - [🇻🇳 Translation](https://mempool.space/vi/).
 - OG Sponsor [VBTC](https://vbtc.exchange/) (financial contribution).
+- Event Sponsor (financial contribution): [Base58 Bitcoin Developer Workshop](https://bitcoinvn.io/news/base58-bitcoin-developer-workshop/).
 
 ---
 
